@@ -120,4 +120,12 @@ body {
   top: 45em;
   padding-left: 15px;
   padding-right: 15px;
+  margin-left: 170px;
+}
+
+.project_items {
+  width: 30em;
+  height: 500px;
+  padding-bottom: 10px;
+  margin: auto;
 }
